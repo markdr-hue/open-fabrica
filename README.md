@@ -1,2 +1,2 @@
-# open-fabrica
-Powering the agentic web
+# Open Fabrica
+A Tribute to the Best Software in the World.
